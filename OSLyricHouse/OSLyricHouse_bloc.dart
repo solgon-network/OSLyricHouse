@@ -4,6 +4,7 @@ import 'dart:developer' as developer;
 import 'package:bloc/bloc.dart';
 import 'package:flutter_filesundefined/index.dart';
 
+
 class OSLyricHouseBloc extends Bloc<OSLyricHouseEvent, OSLyricHouseState> {
   // todo: check singleton for logic in project
   // use GetIt for DI in projct
